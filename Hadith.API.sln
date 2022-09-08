@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32804.182
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HadithDataAPI", "HadithDataAPI\HadithDataAPI.csproj", "{6A56BA9C-59F3-47C0-B6EE-40846F487D21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hadith.API", "Hadith.API\Hadith.API.csproj", "{742DA3C8-9828-4D4F-A196-D673C0781717}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{6A56BA9C-59F3-47C0-B6EE-40846F487D21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A56BA9C-59F3-47C0-B6EE-40846F487D21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A56BA9C-59F3-47C0-B6EE-40846F487D21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{742DA3C8-9828-4D4F-A196-D673C0781717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{742DA3C8-9828-4D4F-A196-D673C0781717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{742DA3C8-9828-4D4F-A196-D673C0781717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{742DA3C8-9828-4D4F-A196-D673C0781717}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8E91E14-02D5-468E-8059-9B60D48B479F}
 	EndGlobalSection
 EndGlobal
