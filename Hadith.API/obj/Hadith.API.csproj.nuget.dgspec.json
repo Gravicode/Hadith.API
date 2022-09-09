@@ -65,7 +65,7 @@
               "target": "Package",
               "version": "[6.2.3, )"
             },
-            "System.Data.SQLite": {
+            "System.Data.SQLite.Core": {
               "target": "Package",
               "version": "[1.0.116, )"
             },
